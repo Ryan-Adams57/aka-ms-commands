@@ -82,5 +82,3 @@ Replace `{command}` with the desired command below to quickly navigate to Micros
 | [aka.ms/Fileshare Migration](https://aka.ms/Fileshare Migration) | Fileshare Migration Portal   |
 
 ---
-
-For a more comprehensive list and shorter command line, check out [cmd.ms](https://cmd.ms).
