@@ -6,7 +6,7 @@ A collection of popular aka.ms links for Microsoft portals.
 
 This repository contains a list of popular aka.ms links for Microsoft portals.
 
-## 🚀 How to Use
+## How to Use
 
 To access a portal, open a new tab in your browser and type:
 
